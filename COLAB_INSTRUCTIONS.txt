@@ -1,0 +1,17 @@
+"""
+🚀 QUICK START - Copy and paste this into a Google Colab cell:
+
+!git clone https://github.com/YOUR_USERNAME/nasdaq-wishlist-tracker.git
+%cd nasdaq-wishlist-tracker
+!python run_colab.py
+
+That's it! The script will:
+1. Install all dependencies
+2. Ask for your ngrok token (get it from https://dashboard.ngrok.com)
+3. Launch the app and give you a public URL
+
+Alternative - Set token as environment variable:
+import os
+os.environ['NGROK_AUTH_TOKEN'] = 'your_token_here'
+!python run_colab.py
+"""
