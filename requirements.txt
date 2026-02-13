@@ -1,5 +1,5 @@
-flask==3.0.0
-yfinance==0.2.36
-pandas==2.1.4
-pandas-ta==0.3.14b0
-pyngrok==7.0.5
+flask
+yfinance
+pandas
+pandas-ta
+pyngrok
